@@ -6,8 +6,8 @@
  <li>Click "Import" on Left Side of Screen </li>
  <li>Click "Select Import File..." on Right Side Top (Blue)</li>
  <li>Browse to file and click "Open"</li>
- <li>Green Bard will appear on right side "Success!</li>
- <li>Scroll Down you will see "YEAR-MON-DAY-TIME-FILE" with Created Time"</li>
+ <li>Green Bar will appear on right side "Success!"</li>
+ <li>Scroll Down you will see "YEAR-MON-DAY-TIME-FILENAME" with Created Time</li>
  <li>Click "Process" </li>
  <li>Import Type: (Assets)</li>
  <li>All the boxes should be filled in with first record information beside it</li>
