@@ -1,10 +1,10 @@
 # NC State University - COS IT
 <ol>
- <li>Download the CSV"</li>
- <li>Modify with the correct information
+ <li>Download the CSV</li>
+ <li>Modify file with the correct information</li>
  <li>Login to SNIPE</li>
  <li>Click "Import" on Left Side of Screen </li>
- <li>Click "Select Import File..." on Right Side Top (Blue)<br>
+ <li>Click "Select Import File..." on Right Side Top (Blue)</li>
  <li>Browse to file and click "Open"</li>
  <li>Green Bard will appear on right side "Success!</li>
  <li>Scroll Down you will see "YEAR-MON-DAY-TIME-FILE" with Created Time"</li>
